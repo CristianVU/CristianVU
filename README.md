@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CristianVU
-- 👀 I’m interested in Pharmacology and pharmacokinetics
-- 🌱 I’m currently learning Pharmacokinetic models in dogs
-- 💞️ I’m looking to collaborate on Pharmacological therapy in dogs
+- 👋 Hi, I’m @CristianVU (Cristian Valiante)
+- 👀 I’m interested in Pharmacology, pharmacokinetics, Big Data & Analytics
+- 🌱 I’m currently a pre-doctoral student of Bioinformatics and Data Science.
+- 💞️ I’m looking to collaborate to the community with relevant information related to pharmacology data analysis, modeling and simulation.
 - 📫 How to reach me: cristianvaliante20@gmail.com
 
 <!---
