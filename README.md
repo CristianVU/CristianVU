@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CristianVU (Cristian Valiante)
-- 👀 I’m interested in Pharmacology, pharmacokinetics, Big Data & Analytics
+- 👋 Hi, I’m @CristianVU (Cristian Valiante).
+- 👀 I’m interested Data Science, Big Data & Analytics.
 - 🌱 I’m currently a pre-doctoral student of Bioinformatics and Data Science.
-- 💞️ I’m looking to collaborate to the community with relevant information related to pharmacology data analysis, modeling and simulation.
+- 💞️ I’m looking to collaborate to the community with relevant information related to data analysis, modeling and simulation.
 - 📫 How to reach me: cristianvaliante20@gmail.com
 
 <!---
